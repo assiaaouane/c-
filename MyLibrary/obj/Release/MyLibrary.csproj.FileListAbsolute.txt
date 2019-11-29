@@ -1,0 +1,9 @@
+C:\Users\assia.aouane\source\repos\projetMetro\MyLibrary\bin\Release\MyLibrary.dll
+C:\Users\assia.aouane\source\repos\projetMetro\MyLibrary\bin\Release\MyLibrary.pdb
+C:\Users\assia.aouane\source\repos\projetMetro\MyLibrary\bin\Release\Newtonsoft.Json.dll
+C:\Users\assia.aouane\source\repos\projetMetro\MyLibrary\bin\Release\Newtonsoft.Json.xml
+C:\Users\assia.aouane\source\repos\projetMetro\MyLibrary\obj\Release\MyLibrary.csprojAssemblyReference.cache
+C:\Users\assia.aouane\source\repos\projetMetro\MyLibrary\obj\Release\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\assia.aouane\source\repos\projetMetro\MyLibrary\obj\Release\MyLibrary.csproj.CopyComplete
+C:\Users\assia.aouane\source\repos\projetMetro\MyLibrary\obj\Release\MyLibrary.dll
+C:\Users\assia.aouane\source\repos\projetMetro\MyLibrary\obj\Release\MyLibrary.pdb

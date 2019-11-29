@@ -1,0 +1,4 @@
+C:\Users\assia.aouane\source\repos\projetMetro\unitTestMetro\obj\Debug\netcoreapp2.1\unitTestMetro.csprojAssemblyReference.cache
+C:\Users\assia.aouane\source\repos\projetMetro\unitTestMetro\obj\Debug\netcoreapp2.1\unitTestMetro.csproj.CoreCompileInputs.cache
+C:\Users\assia.aouane\source\repos\projetMetro\unitTestMetro\obj\Debug\netcoreapp2.1\unitTestMetro.AssemblyInfoInputs.cache
+C:\Users\assia.aouane\source\repos\projetMetro\unitTestMetro\obj\Debug\netcoreapp2.1\unitTestMetro.AssemblyInfo.cs

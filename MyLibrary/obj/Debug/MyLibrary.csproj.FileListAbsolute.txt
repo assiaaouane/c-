@@ -1,0 +1,9 @@
+C:\Users\assia.aouane\source\repos\projetMetro\MyLibrary\bin\Debug\MyLibrary.dll
+C:\Users\assia.aouane\source\repos\projetMetro\MyLibrary\bin\Debug\MyLibrary.pdb
+C:\Users\assia.aouane\source\repos\projetMetro\MyLibrary\obj\Debug\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\assia.aouane\source\repos\projetMetro\MyLibrary\obj\Debug\MyLibrary.dll
+C:\Users\assia.aouane\source\repos\projetMetro\MyLibrary\obj\Debug\MyLibrary.pdb
+C:\Users\assia.aouane\source\repos\projetMetro\MyLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\assia.aouane\source\repos\projetMetro\MyLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\assia.aouane\source\repos\projetMetro\MyLibrary\obj\Debug\MyLibrary.csproj.CopyComplete
+C:\Users\assia.aouane\source\repos\projetMetro\MyLibrary\obj\Debug\MyLibrary.csprojAssemblyReference.cache

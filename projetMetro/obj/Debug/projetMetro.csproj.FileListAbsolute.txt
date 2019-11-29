@@ -1,0 +1,12 @@
+C:\Users\assia.aouane\source\repos\projetMetro\projetMetro\bin\Debug\projetMetro.exe.config
+C:\Users\assia.aouane\source\repos\projetMetro\projetMetro\bin\Debug\projetMetro.exe
+C:\Users\assia.aouane\source\repos\projetMetro\projetMetro\bin\Debug\projetMetro.pdb
+C:\Users\assia.aouane\source\repos\projetMetro\projetMetro\obj\Debug\projetMetro.csprojAssemblyReference.cache
+C:\Users\assia.aouane\source\repos\projetMetro\projetMetro\obj\Debug\projetMetro.csproj.CoreCompileInputs.cache
+C:\Users\assia.aouane\source\repos\projetMetro\projetMetro\obj\Debug\projetMetro.exe
+C:\Users\assia.aouane\source\repos\projetMetro\projetMetro\obj\Debug\projetMetro.pdb
+C:\Users\assia.aouane\source\repos\projetMetro\projetMetro\bin\Debug\Newtonsoft.Json.dll
+C:\Users\assia.aouane\source\repos\projetMetro\projetMetro\bin\Debug\Newtonsoft.Json.xml
+C:\Users\assia.aouane\source\repos\projetMetro\projetMetro\obj\Debug\projetMetro.csproj.CopyComplete
+C:\Users\assia.aouane\source\repos\projetMetro\projetMetro\bin\Debug\MyLibrary.dll
+C:\Users\assia.aouane\source\repos\projetMetro\projetMetro\bin\Debug\MyLibrary.pdb
